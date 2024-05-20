@@ -1,0 +1,14 @@
+C:\Users\goni0\source\repos\수학공식\bin\Debug\net8.0\수학공식.exe
+C:\Users\goni0\source\repos\수학공식\bin\Debug\net8.0\수학공식.deps.json
+C:\Users\goni0\source\repos\수학공식\bin\Debug\net8.0\수학공식.runtimeconfig.json
+C:\Users\goni0\source\repos\수학공식\bin\Debug\net8.0\수학공식.dll
+C:\Users\goni0\source\repos\수학공식\bin\Debug\net8.0\수학공식.pdb
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.AssemblyInfoInputs.cache
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.AssemblyInfo.cs
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.csproj.CoreCompileInputs.cache
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.dll
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\refint\수학공식.dll
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.pdb
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\수학공식.genruntimeconfig.cache
+C:\Users\goni0\source\repos\수학공식\obj\Debug\net8.0\ref\수학공식.dll
